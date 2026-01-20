@@ -4,6 +4,18 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 
 ---
 
+## 🏅 Badges
+
+<div align="center">
+
+| | |
+|:-:|:-:|
+| [![wakatime](https://wakatime.com/badge/user/85399791-7915-4aea-98e5-e7696e6e7a6d.svg)](https://wakatime.com/@theanirbandas) | <a href="https://stackexchange.com/users/7633459"><img src="https://stackexchange.com/users/flair/7633459.png" width="208" height="58" alt="profile for Anirban Das on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Anirban Das on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
